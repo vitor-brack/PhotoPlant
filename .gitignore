@@ -23,6 +23,7 @@ local.properties
 .idea/runConfigurations/
 
 # IntelliJ & Android Studio: arquivos que às vezes aparecem
+.idea/
 .idea/codeStyles/
 *.ipr
 *.iws
@@ -38,6 +39,7 @@ keystore.properties
 signing.properties
 secrets.properties
 key.properties
+app/src/main/res/raw/service_account*
 
 *.apk
 *.aab
