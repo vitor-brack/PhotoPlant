@@ -23,7 +23,7 @@ import okhttp3.Response;
 public class GeminiApiService {
     private static final String PROJECT_ID = "ID_DO_PROJETO";
     private static final String LOCATION = "us-central1";
-    private static final String MODEL = "gemini-2.0-flash";
+    private static final String MODEL = "gemini-3.5-flash-lite";
     private final Context context;
     private final OkHttpClient client;
     private GoogleCredentials credentials;
